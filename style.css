@@ -1,0 +1,96 @@
+.background{
+    background-image:url("background.jpg");
+    height:100vh;
+    position:relative;
+    background-size:cover;
+}
+
+#container {
+
+    position:absolute;
+    top:15px;
+    left:100px;
+    background-color: black;
+    opacity: 0.6;
+    width: 645px;
+    height: 475px;
+    border-radius: 15px;      
+}
+#container2{
+    
+    position: relative;
+    background-color: lime;
+    width: 500px;
+    height: 25px;
+    top: 48px;
+    left:174px;
+   
+}
+
+
+#chrgbox1{    
+    background-color: rgb(209, 169, 37);
+    width: 209px;
+    height: 15px;
+    border-radius: 3px   
+}
+#chrgbox2
+    { 
+        background-color: rgb(37, 209, 37);
+        width: 354px;
+        height: 15px;
+        border-radius: 3px
+}
+#chrgbox3
+    { 
+        
+        background-color: rgb(199, 45, 24);
+        width: 115px;
+        height: 15px;
+        border-radius: 3px
+}
+
+.block1{
+    position:relative;
+    top: 15px;
+    left:-4px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    font-size: 17px;
+    color:white
+}
+.chrg{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    font-size: 12px;
+    color:white
+}
+.button{
+    position: relative;
+    font-size: 7px;
+    font-style:normal;
+    left: 150px;
+}
+#logo{    
+    position:relative;   
+    left: 325px;
+    top: 50px;
+    width: 150px;
+
+     
+}
+#testo{  
+    position: relative;
+    top: 42px;
+    left: 280px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    font-size: 20px;
+    color:lime
+}
+.testa{
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    top:50px;
+    left: 350px;
+}
+    
+
